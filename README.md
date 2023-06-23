@@ -2,7 +2,7 @@
 
 Welcome to the Employee Management System repository! This project showcases a web application built with JavaScript and the Document Object Model (DOM). It provides a user-friendly interface for managing employee data, including the ability to add new employees, edit existing records, validate input data, and sort the table by clicking on the desired column.
 
-You can access the live version of the web application by following this link: [Employee Management System](https://example.com/employee-management-system)
+You can access the live version of the web application by following this link: [Employee Management System](https://vaskovics.github.io/Employees-table-DOM/)
 
 ## Table of Contents
 - [Overview](#overview)
